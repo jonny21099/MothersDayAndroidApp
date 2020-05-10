@@ -12,3 +12,13 @@ Here are the essential features
 2. Checks the name
 
 
+![Screenshot from 2020-05-10 06-22-26](https://user-images.githubusercontent.com/43177180/81499163-ae8d7300-9286-11ea-99d8-e8e3bb615eff.png)
+
+![Screenshot from 2020-05-10 06-22-28](https://user-images.githubusercontent.com/43177180/81499166-b2b99080-9286-11ea-937d-d8a80e960df5.png)
+
+3. Display message
+
+
+![Screenshot from 2020-05-10 06-22-34](https://user-images.githubusercontent.com/43177180/81499168-b4835400-9286-11ea-8ff1-a3f643b549c0.png)
+
+
